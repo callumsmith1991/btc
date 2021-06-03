@@ -1,0 +1,4 @@
+require('./bootstrap');
+
+
+alert('test');
